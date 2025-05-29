@@ -69,7 +69,7 @@
             bindings = <
 &kp GRAVE       &kp N1           &kp N2       &kp N3    &kp N4          &kp N5                                         &mmv MOVE_UP                     &kp N6            &kp N7             &kp N8        &kp N9                &kp N0                 &kp BSPC
 &kp TAB         &kp EXCLAMATION  &kp AT_SIGN  &kp HASH  &kp DOLLAR      &kp PERCENT                    &mmv MOVE_LEFT  &mkp LCLK       &mmv MOVE_RIGHT  &kp CARET         &kp AMPERSAND      &kp ASTERISK  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp PIPE
-&kp LEFT_SHIFT  &kp EQUAL        &kp MINUS    &kp PLUS  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp C_MUTE                    &mmv MOVE_DOWN                   &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp COMMA     &kp DOT               &kp SLASH              &kp RIGHT_SHIFT
+&kp LEFT_SHIFT  &kp EQUAL        &kp MINUS    &kp PLUS  &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp C_MUTE                    &mmv MOVE_DOWN                   &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp COMMA     &kp DOT               &kp BACKSLASH          &kp RIGHT_SHIFT
                                               &trans    &trans          &trans                                                                          &trans            &trans             &trans
             >;
 
